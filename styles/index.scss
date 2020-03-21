@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "_font.scss";
+#paste_text__id_unicode {
+    font-family: 'Siyamrupali';
+}
+
+#paste_text__id_bijoy {
+    font-family: 'GangaSagarMJ';
+}
+
+.bijoy__output {
+    font-family: 'SutonnyMJ';
+    font-size: 18px;
+}
